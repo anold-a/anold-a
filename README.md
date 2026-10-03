@@ -1,6 +1,6 @@
   ### Amani_Arnold
   
-  > Web App Developer | Expanding into Mobile | Welcoming the Future
+  > Web App Developer | Expanding into Mobile 
 ---
 
 ### About
