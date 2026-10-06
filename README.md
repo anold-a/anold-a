@@ -18,7 +18,7 @@ const amani = {
   <a href="https://www.linkedin.com/in/amani-arnold-259403330?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
   </a>
   
-  <a href="">
+  <a href="https://amani-arnold.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:amaniarnold08@gmail.com">
