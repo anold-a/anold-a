@@ -89,7 +89,7 @@ Somewhere between a blank page and franz kafka.
   <img src="https://img.shields.io/badge/GitHub-anold--a-171A21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://github.com/anold-a/amani-portfolio">
+<a href="https://amani-arnold.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-4F6CBE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -100,7 +100,7 @@ Somewhere between a blank page and franz kafka.
 <div align="center">
 
 ```text
-"smh"
+"heavy sigh"
 ```
 
 </div>
