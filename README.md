@@ -1,43 +1,114 @@
-  ### Amani_Arnold
-  
-  > Web App Developer | Expanding into Mobile 
+  <div align="center">
+
+<a href="https://github.com/anold-a">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=4F6CBE&center=true&vCenter=true&width=800&lines=Arnold+Amani" alt="Typing animation" />
+</a>
+
+<br />
+
+
+
+</div>
+
 ---
 
-### About
- ```javascript
-const amani = {
-  building: ["web apps", "backend systems", "APIs"],
-  learning: "Deep diving into Advanced System Design & DSA fundamentals "
-}
+**iam**
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   $ whoami                                                  │
+│   arnold                                                      │
+│                                                             │
+│   role       →  Developer                                   │
+│   focus      →  Advanced System Design                      │
+│   stack      →  TypeScript · Next.js · NestJS               │
+│   interests  →  Architecture · Backend · Product           │
+│   location   →  Kenya 🇰🇪                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
----
-###  Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/amani-arnold-259403330?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
-  </a>
-  
-  <a href="https://amani-arnold.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:amaniarnold08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+> **First of my name.**
+> *The rest I am still writing.*
 
 ---
 
-###  Tech Stack
+**Building:**
+Parts of software where **simple requirements become interesting engineering problems**.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+---
+
+**Stack:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts&theme=light" width="36" height="36" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" width="36" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="36" height="36" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" width="36" height="36" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=light" width="36" height="36" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="36" height="36" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=light" width="36" height="36" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="36" height="36" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="36" height="36" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="36" height="36" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="36" height="36" alt="Linux" />
 </p>
+
+
+
+---
+
+**Learning:**
+`Project Structuring` · `System Design` · `Data Structures` · `Algorithms` · `&&` 
+
+
+---
+
+
+**Status:** `o'clock`
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
+
+</div>
+
+---
+
+**Outside the editor:**
+Somewhere between a blank page and franz kafka.
+
+---
+
+**Connect:**
+
+<div align="center">
+
+<a href="https://github.com/anold-a">
+  <img src="https://img.shields.io/badge/GitHub-anold--a-171A21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://github.com/anold-a/amani-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-4F6CBE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+```text
+"smh"
+```
+
+</div>
+
+<!--
+  ─────────────────────────────────────────────────────────────
+  Arnold Amani · anold-a
+  Into Advanced System Design.
+  ─────────────────────────────────────────────────────────────
+-->
+
