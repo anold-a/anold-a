@@ -30,7 +30,7 @@
 ```
 
 > **First of my name.**
-> *The rest I am still writing.*
+
 
 ---
 
@@ -76,8 +76,6 @@ Parts of software where **simple requirements become interesting engineering pro
 
 ---
 
-**Outside the editor:**
-Somewhere between a blank page and franz kafka.
 
 ---
 
