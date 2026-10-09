@@ -97,10 +97,6 @@ Parts of software where **simple requirements become interesting engineering pro
 
 <div align="center">
 
-```text
-"heavy sigh"
-```
-
 </div>
 
 <!--
