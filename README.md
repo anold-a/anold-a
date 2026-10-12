@@ -1,7 +1,7 @@
-  <div align="left">
-<p>Arnold Amani</p>
 
-</div>
+>Amani Arnold
+
+[![GitHub anold-a](https://img.shields.io/github/followers/anold-a?label=connect&style=social)](https://github.com/anold-a)
 
 ---
 
