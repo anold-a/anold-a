@@ -1,12 +1,5 @@
-  <div align="center">
-
-<a href="https://github.com/anold-a">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=4F6CBE&center=true&vCenter=true&width=800&lines=Arnold+Amani" alt="Typing animation" />
-</a>
-
-<br />
-
-
+  <div align="left">
+<p>Arnold Amani</p>
 
 </div>
 
@@ -17,8 +10,8 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   $ whoami                                                  │
-│   arnold                                                      │
+│   $ about                                                  │
+│                                                            │
 │                                                             │
 │   role       →  Developer                                   │
 │   focus      →  Advanced System Design                      │
