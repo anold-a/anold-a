@@ -56,20 +56,6 @@ Parts of software where **simple requirements become interesting engineering pro
 **Learning:**
 `Project Structuring` · `System Design` · `Data Structures` · `Algorithms` · `&&` 
 
-
----
-
-
-**Status:** `o'clock`
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
-
-</div>
-
----
-
-
 ---
 
 **Connect:**
